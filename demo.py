@@ -1,4 +1,6 @@
 # bmi-demo-project
+print("BMI DEMO PROJECT")
+
 height = int(input("please input your height in cm: "))
 weight = int(input("please input your weight in kg: "))
 h = 100
@@ -18,4 +20,3 @@ elif bmi > 25 and bmi <= 29.9:
     print("You're Overweight")
 else:
     print("You have Obesity")
-    
