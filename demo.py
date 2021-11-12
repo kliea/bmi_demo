@@ -20,3 +20,5 @@ elif bmi > 25 and bmi <= 29.9:
     print("You're Overweight")
 else:
     print("You have Obesity")
+
+print("Thank you!")
