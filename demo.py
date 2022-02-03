@@ -20,4 +20,7 @@ elif bmi > 25 and bmi <= 29.9:
 else:
     print("You have Obesity")
 
-print("Thank you!")
+#ending
+user_choice = input(" Do you want to play again? (y/n)")
+if user_choice in["Y", "Yes","yes"]:
+    pass
