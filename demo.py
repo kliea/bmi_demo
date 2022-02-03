@@ -1,6 +1,5 @@
 # bmi-demo-project
 print("BMI DEMO PROJECT")
-
 height = int(input("please input your height in cm: "))
 weight = int(input("please input your weight in kg: "))
 h = 100
